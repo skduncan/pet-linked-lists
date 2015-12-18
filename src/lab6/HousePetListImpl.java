@@ -1,9 +1,6 @@
 package lab6;
 
 //Sam Duncan
-//Computer Science Concepts II Lab (Tuesday 3:30-4:45pm)
-//January 21st, 2014
-//
 //Modification History:
 //Created HousePetListImpl.java (01/21/2014)
 //Added sortByChipIdentifier, sortByName, and compareTo methods. (01/23/2014)
