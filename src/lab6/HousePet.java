@@ -1,7 +1,4 @@
 //Sam Duncan
-//Computer Science Concepts II Lab (Tuesday 3:30-4:45pm)
-//January 14th, 2014
-//
 //Modification History:
 //01/14/2014: Created HousePet class with default constructor, fulls constructor, get and set methods, toString method, and readFromScanner method.
 
